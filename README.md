@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlessArver
+- 👋 Hi, I’m Alice Arver
 - 👀 I’m interested in web-dev
-- 🌱 I’m currently learning WebRTC
+<!-- - 🌱 I’m currently learning  -->
 - 📫 How to reach me ...
 
 <details open> 
