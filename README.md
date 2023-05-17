@@ -13,7 +13,7 @@
   </p>
 </details>
 <details open> 
-  <summary><h2>📘 MultiRamge</h2></summary>
+  <summary><h2>📘 MultiRange</h2></summary>
   <p align="left">
      <a href="https://github.com/AlessArver/react-multirange"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AlessArver&repo=react-multirange&theme=react&bg_color=1F222E&title_color=0dff00&border_color=0dff00&icon_color=F8D866&show_icons=false" alt="react-multirange">
     </a>
